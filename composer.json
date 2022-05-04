@@ -1,0 +1,23 @@
+{
+    "name": "sia/siavpos",
+    "description": "SIA Virtual POS Integration Package.",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=4.0.2",
+        "ext-curl": "*"
+    },
+    "version": "v1.4.24",
+    "homepage": "https://vpos.te.sia.eu/report/home.do",
+    "time": "2020-09-10",
+    "authors": [
+        {
+            "name": "SIA Central Europe, a.s.",
+            "email": "ecomm@sia.eu"
+        }
+    ],
+    "support": {
+        "email": "ecomm@sia.eu"
+    },
+    "license": "proprietary"
+}
